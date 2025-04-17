@@ -1,5 +1,3 @@
-# World-Energy-Consumption-Trend
-
 # World Energy Consumption Analysis & Dashboard
 
 This project provides an in-depth exploration of global energy consumption using data-driven techniques.
